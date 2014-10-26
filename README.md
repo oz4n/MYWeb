@@ -1,3 +1,3 @@
 MY Web Application
 ================================
-Content Management Framework (CMF )
+Content Management Framework (CMF)
